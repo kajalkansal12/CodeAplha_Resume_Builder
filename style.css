@@ -1,0 +1,22 @@
+/* #cv-form{
+    display: none;
+} */
+#cv-template {
+    display: none;
+}
+.myimg{
+   border-radius: 50%;
+    width: 200px;
+}
+.backgroundc {
+    background-color: rgb(44,62,80);
+}
+.container p{
+    color: white;
+}
+.container h3{
+    color: rgb(2, 2, 71);
+}
+.btn background{
+    background-color: rgb(2, 2, 71);
+}
